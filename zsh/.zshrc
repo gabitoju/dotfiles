@@ -110,4 +110,4 @@ alias la='ls -a'
 alias lla='ls -la'
 alias lt='ls --tree'
 
-source .extraconf
+source "$HOME/.extraconf"
